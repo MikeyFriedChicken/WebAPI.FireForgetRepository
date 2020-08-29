@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30420.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikeyFriedChicken.WebAPI.FireForgetRepository", "MikeyFriedChicken.WebAPI.FireForgetRepository.csproj", "{5EE377E0-2349-4F9A-99C3-5F2055A3527F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE377E0-2349-4F9A-99C3-5F2055A3527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE377E0-2349-4F9A-99C3-5F2055A3527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE377E0-2349-4F9A-99C3-5F2055A3527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE377E0-2349-4F9A-99C3-5F2055A3527F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F496ED9D-629C-4773-B256-6FC6D850DE68}
+	EndGlobalSection
+EndGlobal
